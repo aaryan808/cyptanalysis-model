@@ -96,8 +96,8 @@ ENGLISH_WORDS = {
     "BACK", "AFTER", "USE", "TWO", "HOW", "OUR", "WORK", "FIRST", "WELL", "WAY",
     "EVEN", "NEW", "WANT", "BECAUSE", "ANY", "THESE", "GIVE", "DAY", "MOST", "US",
     "QUICK", "BROWN", "FOX", "JUMPS", "LAZY", "DOG", "POWER", "KNOWLEDGE", "SINGLE",
-    "TRUTH", "FORTUNE", "WIFE", "GREAT", "WORLD", "LIGHT", "DARK", "FOUND", "STATE"
-}
+    "TRUTH", "FORTUNE", "WIFE", "GREAT", "WORLD", "LIGHT", "DARK", "FOUND", "STATE","AARYAN","PROJECT","TESTING"
+    }
 
 def count_english_word_chars(text):
     """Count total characters in text that belong to recognized English words of length >= 2."""
